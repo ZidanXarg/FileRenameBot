@@ -2,12 +2,12 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6113104447:AAHHE56nNSAQEr6KBbCN4vNEwNjki_8q7ZY")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6651602516:AAFUVG9BVgHZSBF2IUQPIPAHONSKArrv7eE")
     # The Telegram API things
-    APP_ID = int(os.environ.get("APP_ID", 13675555))
-    API_HASH = os.environ.get("API_HASH", "c0da9c346d2c45dbc7ec49a05da9b2b6")
+    APP_ID = int(os.environ.get("APP_ID", 9583161))
+    API_HASH = os.environ.get("API_HASH", "aecf9e2b7c655c4f916564ab6d598a73")
     # Update channel for Force Subscribe
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "manga_universe")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "xareeg")
     # log channel
     #LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "")
     # Get these values from my.telegram.org
